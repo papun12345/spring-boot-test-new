@@ -92,17 +92,9 @@
 <goals>
 <goal>prepare-agent</goal>
 </goals>
-
 </execution>
-<execution>...</execution>
-<!-- attached to Maven test phase -->
-<execution>
 <id>report</id>
 <phase>test</phase>
-</execution>
-<execution>...</execution>
-</executions>
-<executions>...</executions>
 </plugin>
 		</plugins>
 		
